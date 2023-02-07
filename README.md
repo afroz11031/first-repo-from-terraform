@@ -1,2 +1,2 @@
 # first-repo-from-terraform
-This is the first repository in github from terraform...manually changed
+This is the first repository in github from terraform.
